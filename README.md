@@ -17,8 +17,8 @@ We plan to deal with class imbalance in the following ways in our project:
 
 Classification Models:
 
-- Baseline
+- [Baseline](https://github.com/EshwarCVS/Lesion-Detection/blob/master/baseline.ipynb)
 - GoogLeNet
-- ResNet-50
+- [ResNet-50](https://github.com/EshwarCVS/Lesion-Detection/blob/master/ResNet50.ipynb)
 - VGGNet
-- Xception
+- [Xception](https://github.com/EshwarCVS/Lesion-Detection/blob/master/Xception.ipynb)
