@@ -22,3 +22,15 @@ Classification Models:
 - [ResNet-50](https://github.com/EshwarCVS/Lesion-Detection/blob/master/ResNet50.ipynb)
 - [VGGNet](https://github.com/EshwarCVS/Lesion-Detection/blob/master/VGG.ipynb)
 - [Xception](https://github.com/EshwarCVS/Lesion-Detection/blob/master/Xception.ipynb)
+
+
+Final Report:
+![Page 1](./readme-res/1.jpg)
+![Page 2](./readme-res/2.jpg)
+![Page 3](./readme-res/3.jpg)
+![Page 4](./readme-res/4.jpg)
+![Page 5](./readme-res/5.jpg)
+![Page 6](./readme-res/6.jpg)
+![Page 7](./readme-res/7.jpg)
+![Page 8](./readme-res/8.jpg)
+![Page 9](./readme-res/9.jpg)
